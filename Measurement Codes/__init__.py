@@ -1,0 +1,1 @@
+self.ui.btn_upload_stl.clicked.connect(self.upload_stl)
