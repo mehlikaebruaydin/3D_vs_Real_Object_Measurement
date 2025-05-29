@@ -22,35 +22,34 @@ The measurements are compared to expected reference values to check if the produ
 - NumPy
 
 ##Project Structure
- 3D_vs_REAL_Object_Measurement_Project/
+```bash
+3D_vs_REAL_Object_Measurement_Project/
 ├── Measurement Codes/
-│   ├── main.py
-│   ├── mainwindow.py
-│   ├──mainwindow.ui
-│   ├──main.spec
-│   ├──__init__.py
-│   ├── RoundCap/
-│   │   ├── find_roundcap.py
-│   │   ├── thickness_roundcap.py
-│   │   ├── measure_roundcap.py
-│   │── Matchbox/
-│   │   ├── find_matchbox.py
-│   │   ├── thickness_matchbox.py
-│   └── ├── measure_matchbox
-│
+│ ├── main.py
+│ ├── mainwindow.py
+│ ├── mainwindow.ui
+│ ├── main.spec
+│ ├── init.py
+│ ├── RoundCap/
+│ │ ├── find_roundcap.py
+│ │ ├── thickness_roundcap.py
+│ │ └── measure_roundcap.py
+│ └── Matchbox/
+│ ├── find_matchbox.py
+│ ├── thickness_matchbox.py
+│ └── measure_matchbox.py
 │
 ├── images/
-│   ├── Matchbox/
-│        ├── side image/
-│        ├── top image/ 
-│   ├── roundCap/
-│        ├── side image/
-│        ├── top image /
-│
+│ ├── Matchbox/
+│ │ ├── side image/
+│ │ └── top image/
+│ └── roundCap/
+│ ├── side image/
+│ └── top image/
 │
 └── 3D models/
-
-
+```
 ## RUN
+```bash
 python main.py
 
