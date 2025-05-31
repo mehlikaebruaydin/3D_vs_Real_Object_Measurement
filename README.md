@@ -55,7 +55,7 @@ python main.py
 ```
 
 ## CONTRIBUTERS
+[@brtgulen](https://github.com/brtgulen)
+    [@muttalip488](https://github.com/muttalip488)
 
-@muttalip488
-@brtgulen
 
