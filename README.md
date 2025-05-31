@@ -52,4 +52,10 @@ The measurements are compared to expected reference values to check if the produ
 ## RUN
 ```bash
 python main.py
+```
+
+## CONTRIBUTERS
+
+@muttalip488
+@brtgulen
 
